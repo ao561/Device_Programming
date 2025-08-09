@@ -1,5 +1,4 @@
 # Device Programming
-C++ Microcontroller Programming activity for University of Cambridge 2nd Year Engineering (Part IB) coursework.
 
 Activity 1: Programming the microcontroller to record a sequence of colours entered by the user, and then play it back. Here is the approach:  
 1. The board starts by cycling the three LEDs, turning them on one at time, and switching every second: LED1 (green) for 1s –> LED2 (blue) for 1 sec –> LED3 (red) for 1s –> LED1 for 1 sec, etc.
